@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ruixiang Liu @ruix6
+- 👀 I’m interested in AI coding and IOT.
+- 📫 e-mail: liurx@ieee.org

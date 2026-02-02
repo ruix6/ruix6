@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ruixiang Liu @ruix6
-- 👀 I’m interested in AI coding and IOT.
+- 👀 I’m interested in Explainable AI and BCI. I'm looking for an opportunity to pursuing Phd degree in related area.
 - 📫 e-mail: liurx@ieee.org

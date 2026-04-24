@@ -58,7 +58,7 @@ Research areas: neural networks, multimodal large language models, medical signa
 
 ---
 
-## Selected Publications
+## Publications
 
 1. **Liu R.**, et al. *ADT Network: A Novel Nonlinear Method for Decoding Speech Envelopes from EEG Signals*. **Trends in Hearing**.
 
